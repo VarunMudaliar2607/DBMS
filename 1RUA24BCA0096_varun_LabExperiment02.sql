@@ -1,6 +1,6 @@
 -- Lab Experiment 01: Implementation of DDL Commands in SQL for the given scenarios
--- STUDENT NAME: GAURAV P RAO
--- USN: 1RUA24BCA0027
+-- STUDENT NAME: varun 
+-- USN: 1RUA24BCA0096
 -- SECTION: A
 
 SELECT USER(), 
