@@ -2,8 +2,8 @@
 -- Lab Experiment 05: To implement different types of joins: Inner Join, Outer Join (Left, Right, Full), and Natural Join.
 
 -- -----------------------------------------------------------------------------------------------------------------------------------------
--- STUDENT NAME: gaurav
--- USN: 1rua24bca0027
+-- STUDENT NAME: varun
+-- USN: 1rua24bca0096
 -- SECTION: a
 -- -----------------------------------------------------------------------------------------------------------------------------------------
 SELECT USER(), 
