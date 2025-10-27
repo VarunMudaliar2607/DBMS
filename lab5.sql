@@ -1,8 +1,8 @@
 -- Lab Experiment 04: Implement arithmetic, logical, comparison, special, and set operators in SQL using the Employees and Departments tables.
 
 -- -----------------------------------------------------------------------------------------------------------------------------------------
--- STUDENT NAME: GAURAV P RAO
--- USN: 1RUA24BCA0027
+-- STUDENT NAME: varun
+-- USN: 1RUA24BCA0096
 -- SECTION: A
 -- -----------------------------------------------------------------------------------------------------------------------------------------
 SELECT USER(), 
