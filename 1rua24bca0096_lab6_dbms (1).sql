@@ -4,8 +4,8 @@
 -- Lab Experiment 07: Implementation of SQL Subqueries:
 -- Implement various types of subqueries in SQL.
 -- ----------------------------------------------------------------------------------
--- STUDENT NAME: gaurav
--- USN: 1rua24bca0027
+-- STUDENT NAME: varun
+-- USN: 1rua24bca0096
 -- SECTION: a
 -- ----------------------------------------------------------------------------------
 SELECT USER(), 
